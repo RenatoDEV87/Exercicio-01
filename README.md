@@ -38,10 +38,14 @@ let numero = prompt("Digite um número inteiro: ");
 numero = parseInt(numero);
 
 // Verificamos se o número é par ou ímpar
-if (numero % 2 === 0) {
-  console.log("O número é par.");
+if (isNaN(numero)) {
+  console.log("Por favor, digite um número válido.");
 } else {
-  console.log("O número é ímpar.");
+  if (numero % 2 === 0) {
+    console.log("O número é par.");
+  } else {
+    console.log("O número é ímpar.");
+  }
 }
 
 ```
