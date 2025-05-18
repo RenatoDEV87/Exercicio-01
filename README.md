@@ -9,7 +9,7 @@ Exercício 01: Verifica se um número é par ou ímpar
 1. [📖 Descrição](#descrição)  
 2. [💻 Código](#código)  
 3. [🚀 Como Executar](#como-executar)   
-4. [🛠️ Tecnologias Utilizadas](#️tecnologias-utilizadas)   
+4. [🛠️ Tecnologias Utilizadas](#tecnologias-utilizadas)  
 5. [📜 Licença](#licença)  
 
 ---
